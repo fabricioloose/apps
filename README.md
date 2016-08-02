@@ -10,5 +10,10 @@ Portifólio de Apps
 Plataforma:
 
 Java
+
 Oracle XE
+
 PostgreSQL
+
+
+Contato: fabricioloose@gmail.com
