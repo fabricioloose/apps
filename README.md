@@ -7,16 +7,6 @@ Portifólio de Apps
 
 ** activedirectory - Sistema para integração e controle de contas Active Directory e Openfire, para suporte TI.
 
-** Arquivo Público
-
-** Concursos
-
-** Prestação de Contas
-
-** Qualidade
-
-** Recursos Humanos
-
 
 Plataforma:
 
